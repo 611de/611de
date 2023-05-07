@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey! Nice to see you 👋
-Welcome to my page!
 
-I'm Yiyi L
+<a href="https://github.com/611de"><img align='right' src="https://github-readme-stats.vercel.app/api?username=611de&show_icons=true"></a>
+<!-- ![Yiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=611de) -->
+### Hi there👋 I'm Yiyi :snowflake:
 
-## Things I code with
+<!-- ## Things I code with -->
 ![image python](https://img.shields.io/badge/python-3.9-orange)
 ![image python](https://img.shields.io/badge/Django-green)
+<!-- https://folio-iota.vercel.app/ is very interesting-->
 <!-- icon you can find in this web site https://shields.io/ -->
 
 
-![Yiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=611de)
+<!-- - 🔭 I’m currently working on [DartNative](https://github.com/dart-native) -->
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: liuyiyi-611@qq.com         
+
