@@ -1,6 +1,8 @@
-<div style="float: right; display: flex; flex-direction: column;">
-  <a href="https://github.com/611de"><img src="https://github-readme-stats.vercel.app/api?username=611de&show_icons=true"></a>
-  <a href="https://github.com/611de"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=611de"></a>
+<div align="center">
+  
+| <a href="https://github.com/611de"><img src="https://github-readme-stats.vercel.app/api?username=611de&show_icons=true&hide_border=true"></a> | <a href="https://github.com/611de"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=611de&hide_border=true"></a> |
+| ------------- | ------------- |
+
 </div>
 
 ### 👋 Hello, This is Yiyi L :snowflake:
