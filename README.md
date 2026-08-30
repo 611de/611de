@@ -18,12 +18,12 @@ A software developer with a deep passion for computer science and programming. C
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=default" alt="github stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics/metrics.svg" />
+  <img src="./metrics/metrics.svg" alt="github metrics" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=default" alt="top langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages.svg" />
+  <img src="./metrics/languages.svg" alt="languages" />
 </picture>
 
 <div align="center">
