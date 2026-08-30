@@ -1,13 +1,14 @@
 ### 👋 Hi, I'm Yiyi L
 
-A software developer with a deep passion for computer science and programming. Continuously exploring emerging technologies and tackling intricate problems are my driving forces.
+后端出身的开发者，现在一头扎进大模型应用开发：Agent、RAG、微调都动手踩过坑，踩完还爱写成教程。
 
-一个热爱计算机科学与编程的软件开发者，持续探索新技术、攻克难题。
+Backend developer gone deep into LLM apps — I break things, fix them, then write about it.
 
-- 🔭 Building web apps with **Python · Django · FastAPI**
-- 🌱 Exploring **LLM & RAG** with LlamaIndex
-- 💬 Also working with **Java · SpringBoot**
-- 📫 Email: liuyiyi-611@qq.com · Blog: https://611de.github.io/
+- 🤖 **大模型全链路实践** — LangGraph · RAG · 模型微调 · Agent 开发（Claude Code / DeepSeek / Qwen）
+- 🔧 **后端主力** — Python · Django · FastAPI · Java · SpringBoot
+- ✍️ **边学边写** — [20 篇教程与踩坑笔记](https://611de.github.io/)，从 Jekyll 建站、MkDocs 到 LiteLLM 代理
+- ⌨️ **效率工具折腾控** — WSL · nvim · AutoHotkey，Windows 上的 Linux 流工作流
+- 📫 Email: liuyiyi-611@qq.com
 
 ### 🛠️ Tech Stack
 
