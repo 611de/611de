@@ -18,10 +18,17 @@ A software developer with a deep passion for computer science and programming. C
 ### 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=github_dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=default" alt="github stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=611de&show_icons=true&hide_border=true&theme=default" alt="github stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=default" alt="top langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=611de&hide_border=true&layout=compact&theme=default" alt="top langs" />
 </picture>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/611de/611de/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/611de/611de/output/github-snake.svg" alt="contribution snake" width="100%" />
+</picture>
+</div>
