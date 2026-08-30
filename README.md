@@ -30,6 +30,10 @@
 - 💬 **Ask me about / 可以聊** — Python, Django, Java, SpringBoot
 - ⚡ **Fun fact / 彩蛋** — [https://folio-iota.vercel.app/](https://folio-iota.vercel.app/) is very interesting
 
+<div align="center">
+<img src="assets/code-rain.svg" width="100%" alt="code rain" />
+</div>
+
 ## 🛠️ Tech Stack · 技术栈
 
 <div align="center">
@@ -56,6 +60,20 @@
   <img height="165" src="https://streak-stats.demolab.com?user=611de&hide_border=true&background=f6f8fa&ring=8b5cf6&fire=f97316&currStreakLabel=8b5cf6&sideLabels=06b6d4&currStreakNum=24292f&sideNums=24292f&dates=57606a" alt="streak" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=611de&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=611de&theme=github&utcOffset=8" alt="productive time" />
+</picture>
+
+</div>
+
+## 🌌 3D Contribution · 立体贡献城市
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d contribution" width="100%" />
+</picture>
 </div>
 
 ## 🐍 Contribution Snake · 贪吃蛇
